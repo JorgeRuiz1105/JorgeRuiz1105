@@ -1,4 +1,5 @@
-## Hi there 👋
+## Sobre mí
+[![AWS Certified Cloud Practitioner](./img/aws-cloud-quest-cloud-practitioner-training-badge.png)](https://www.credly.com/badges/12345678-abcd-1234-efgh-1234567890ab)
 
 <!--
 **JorgeRuiz1105/JorgeRuiz1105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
