@@ -1,5 +1,7 @@
 ## Sobre mí
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5a26eac7-d924-43fd-a679-9c45b499f4ee" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<a href="https://www.credly.com/badges/5a26eac7-d924-43fd-a679-9c45b499f4ee">
+  <img src="./img/aws-cloud-quest-cloud-practitioner-training-badge.png" width="150" alt="Insignia de Credly">
+</a>
 
 <!--
 **JorgeRuiz1105/JorgeRuiz1105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
