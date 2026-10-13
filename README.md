@@ -1,4 +1,15 @@
 ## Sobre mí
+
+Hola! Mi nombre es Jorge Ruiz.
+
+Me interesa el desarrollo backend con Java, las APIs REST y las bases de datos, así como la computación en la nube.
+
+Actualmente, estoy fortaleciendo mis conocimientos en Java y Spring Boot mediante proyectos prácticos, aplicando conceptos de programación orientada a objetos, diseño de APIs y persistencia de datos. También cuento con conocimientos en redes y AWS.
+
+Este perfil reúne algunos de mis proyectos académicos y personales, en los que busco aplicar lo aprendido y seguir desarrollando mis habilidades como programador.
+
+Actualmente, estoy en búsqueda de una oportunidad para realizar mis prácticas profesionales y continuar creciendo en el área de desarrollo de software.
+
 <a href="https://www.credly.com/badges/5a26eac7-d924-43fd-a679-9c45b499f4ee">
   <img src="./img/aws-cloud-quest-cloud-practitioner-training-badge.png" width="150" alt="Insignia de Credly">
 </a>
