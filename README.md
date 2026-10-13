@@ -10,17 +10,21 @@ Este perfil reúne algunos de mis proyectos académicos y personales, en los que
 
 Actualmente, estoy en búsqueda de una oportunidad para realizar mis prácticas profesionales y continuar creciendo en el área de desarrollo de software.
 
-![Java](https://shields.io)
-![Spring Boot](https://shields.io)
-![Python](https://shields.io)
-![C++](https://shields.io)
-![JavaScript](https://shields.io)
-![SQL](https://shields.io)
-![REST APIs](https://shields.io)
-![JSON](https://shields.io)
-![JPA / Hibernate](https://shields.io)
-![AWS](https://shields.io)
-![Excel](https://shields.io)
+## Tecnologías y herramientas
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![JPA / Hibernate](https://img.shields.io/badge/JPA_%2F_Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
 
 <a href="https://www.credly.com/badges/5a26eac7-d924-43fd-a679-9c45b499f4ee">
   <img src="./img/aws-cloud-quest-cloud-practitioner-training-badge.png" width="150" alt="Insignia de Credly">
