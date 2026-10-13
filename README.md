@@ -10,6 +10,18 @@ Este perfil reúne algunos de mis proyectos académicos y personales, en los que
 
 Actualmente, estoy en búsqueda de una oportunidad para realizar mis prácticas profesionales y continuar creciendo en el área de desarrollo de software.
 
+![Java](https://shields.io)
+![Spring Boot](https://shields.io)
+![Python](https://shields.io)
+![C++](https://shields.io)
+![JavaScript](https://shields.io)
+![SQL](https://shields.io)
+![REST APIs](https://shields.io)
+![JSON](https://shields.io)
+![JPA / Hibernate](https://shields.io)
+![AWS](https://shields.io)
+![Excel](https://shields.io)
+
 <a href="https://www.credly.com/badges/5a26eac7-d924-43fd-a679-9c45b499f4ee">
   <img src="./img/aws-cloud-quest-cloud-practitioner-training-badge.png" width="150" alt="Insignia de Credly">
 </a>
