@@ -2,7 +2,7 @@
 
 Hola! Mi nombre es Jorge Ruiz.
 
-Me interesa el desarrollo backend con Java, las APIs REST y las bases de datos, así como la computación en la nube.
+Me interesa el desarrollo backend con Java, las APIs REST, las bases de datos y la computación en la nube.
 
 Actualmente, estoy fortaleciendo mis conocimientos en Java y Spring Boot mediante proyectos prácticos, aplicando conceptos de programación orientada a objetos, diseño de APIs y persistencia de datos. También cuento con conocimientos en redes y AWS.
 
